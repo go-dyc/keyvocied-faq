@@ -1,0 +1,32 @@
+{
+    "general": [
+        {
+            "question": "What is Keyvoiced?",
+            "answer": "Keyvoiced is a voice recognition app that helps you input text quickly anywhere by converting your voice to text."
+        },
+        {
+            "question": "How do I start using Keyvoiced?",
+            "answer": "After installing the app, grant the necessary permissions, then tap the microphone icon to start voice recognition."
+        }
+    ],
+    "ads": [
+        {
+            "question": "Why do I see ads in Keyvoiced?",
+            "answer": "Ads help us keep Keyvoiced free for users. Watching ads also allows you to earn more usage time."
+        },
+        {
+            "question": "How can I get more time without ads?",
+            "answer": "You can purchase a subscription to use Keyvoiced without ads and with unlimited time."
+        }
+    ],
+    "purchase": [
+        {
+            "question": "What subscription options are available?",
+            "answer": "We offer monthly and yearly subscription plans. Check the 'Get More Time' section in the app for current pricing."
+        },
+        {
+            "question": "How do I cancel my subscription?",
+            "answer": "You can cancel your subscription through your Google Play Store account settings."
+        }
+    ]
+}
