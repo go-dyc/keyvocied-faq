@@ -2,11 +2,6 @@ document.addEventListener('DOMContentLoaded', function() {
     const categoryDropdown = document.getElementById('categoryDropdown');
     const faqContent = document.getElementById('faqContent');
 
-    // Close button functionality (to be implemented in Android)
-    closeButton.addEventListener('click', function() {
-        console.log('Close button clicked');
-    });
-
     // Category dropdown functionality
     categoryDropdown.addEventListener('change', function() {
         const selectedCategory = this.value;
