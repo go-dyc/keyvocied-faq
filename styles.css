@@ -1,0 +1,37 @@
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    color: #333;
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+nav {
+    margin-bottom: 20px;
+}
+
+.faq-item {
+    margin-bottom: 20px;
+}
+
+.faq-question {
+    background-color: #f4f4f4;
+    padding: 10px;
+    cursor: pointer;
+}
+
+.faq-answer {
+    display: none;
+    padding: 10px;
+}
+
+.faq-toggle {
+    float: right;
+}
