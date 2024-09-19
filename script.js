@@ -1,5 +1,4 @@
 document.addEventListener('DOMContentLoaded', function() {
-    const closeButton = document.getElementById('closeButton');
     const categoryDropdown = document.getElementById('categoryDropdown');
     const faqContent = document.getElementById('faqContent');
 
